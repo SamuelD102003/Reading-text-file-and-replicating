@@ -1,0 +1,8 @@
+100 Brandon 24.50
+200 Johnny 345.67
+300 Aliyah 0.00
+400 Walter -45.23
+500 Sandor 214.89
+600 James 1005.30
+700 Roberto 81.05
+800 Catherine 100.10
